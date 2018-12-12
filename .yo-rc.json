@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.gayahaiti.dev",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "monolith",
+    "baseName": "gayaLekol",
+    "packageName": "com.gayahaiti.dev",
+    "packageFolder": "com/gayahaiti/dev",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MWJmYWFiZjQ2ZjZmZmQ2ZjdjZjdhYjUyMGY5ZDI2MDlmMGQ3YzgzNzQ1OTJhMzI5YmQ0NmExYTIzZGMwODVhZTdjZjNhNmQ4YzNjZjljNGRlZTU4OGIwNDA4ZGY5OTI3ZGI2OTU0NzYzOWQzODdlODllNDVhMTQ0OTM4YmEwMDE=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "fr"
+    ]
+  }
+}
